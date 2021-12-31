@@ -1,0 +1,19 @@
+#overview{
+    background-color: #548CFF;
+    height: auto;
+}
+#headline{
+    background-color: #548CFF;
+}
+h1{
+    color: #CFFFDC;
+    text-align: center;
+}
+.card{
+    margin: auto;
+}
+#footer{
+    font-size: 22px;
+    text-shadow: cornflowerblue;
+    color: #CFFFDC;
+}
